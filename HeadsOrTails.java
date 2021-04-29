@@ -4,6 +4,8 @@
  * 
  * Name: HeadsOrTails.java
  * Purpose: JavaFX application that flips a coin
+ * Author: grivera64
+ * Date: 04/29/2021
  * 
  */
 
